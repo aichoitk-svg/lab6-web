@@ -2,7 +2,7 @@
 <html lang="vi">
 <head>
     <meta charset="UTF-8">
-    <title>Lab 6 - Lap Trinh Web</title>
+    <title>Cap nhat giao dien moi tu Local</title>
     <link rel="stylesheet" href="style.css">
 </head>
 <body>
